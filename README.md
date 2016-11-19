@@ -7,7 +7,7 @@
 발표자료 ShortURL : http://aka.ms/udis-ml  
 
 ### Iris 데모 데이터
-Iris 데모 데이터는 붓꽃 Lebel 데이터로 일반적인 분석 시나리오의 설명 등에 사용되는 예제 데이터임  
+Iris 데모 데이터는 붓꽃 Label 데이터로 일반적인 분석 시나리오의 설명 등에 사용되는 예제 데이터임  
 ![Iris 데이터 구조](./images/iris.png)
 
 Iris 데이터 link : data 폴더 참조  
